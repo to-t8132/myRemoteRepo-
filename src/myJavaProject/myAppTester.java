@@ -33,15 +33,8 @@ public class myAppTester {
 	       }
 	   }
 
-
-	   /* 
-	       add your test method in this space then remove the block comment symbols
-	       public static void myTestMethod(...){
-
-            
-
+	   //this is a method that does not do anything
+	       public static void myTestMethod(int num){
+				System.out.println(num);       
 		   }
-	 
-	   */
-
 }
